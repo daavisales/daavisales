@@ -1,77 +1,37 @@
-# Olá, eu sou o Davi Sales 👋
+<img src="./banner.png" alt="Davi Sales — Front-End Engineer" width="100%" />
 
-💻 Desenvolvedor Full Stack apaixonado por tecnologia, criação de produtos e resolução de problemas através de código.
+### Hi, I'm Davi 👋
 
-Tenho experiência no desenvolvimento de aplicações web, trabalhando principalmente com **React** e tecnologias modernas do ecossistema JavaScript.
+Front-End Engineer from Brasília, Brazil. I build web software people rely on every day — currently leading the front-end of a government platform at **SEA Tecnologia** with React, TypeScript and Liferay DXP.
 
----
+Outside work I ship complete products on my own, from database to UI to deployment, with a soft spot for **automation and AI**.
 
-## 🚀 Sobre mim
-
-- 🔭 Atualmente desenvolvendo projetos web e buscando evoluir como engenheiro de software
-- 🌱 Sempre estudando boas práticas, arquitetura de sistemas e novas tecnologias
-- 💡 Interesse em produtos digitais, SaaS e aplicações escaláveis
-- 🎯 Buscando oportunidades para contribuir em times de tecnologia e construir soluções de impacto
+🌍 Open to remote roles and relocation.
 
 ---
 
-## 🛠️ Tecnologias
+#### 🛠️ Stack
 
-### Frontend
-<div>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
-</div>
+**Front-end:** React · TypeScript · Next.js · JavaScript · HTML/CSS · Vite
+**Back-end & data:** Node.js · Ruby on Rails · Python (FastAPI, Flask) · PostgreSQL · Supabase · REST APIs
+**Enterprise:** Liferay DXP · FreeMarker · Groovy
+**Tools:** Git · GitLab CI/CD · Docker · Linux · Vercel · LLM APIs
 
-### Backend
-<div>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/API-000000?style=for-the-badge&logo=fastapi&logoColor=fff"/>
-</div>
+#### 🚀 Featured work
 
-### Banco de dados e ferramentas
+| Project | What it is | Stack |
+|---|---|---|
+| [**IMOWO**](https://github.com/daavisales/imowo-case-study) · [live](https://imowo.vercel.app) | AI financial assistant on WhatsApp for a consulting business — an LLM turns chat messages into validated transactions, plus reports and an admin panel | NestJS · Next.js · Prisma · Claude API |
+| [**Trip Planner**](https://github.com/daavisales/trip-planning-project) | Personal study project — planning trips end to end | React · TypeScript · Vite |
 
-<div>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>
-</div>
+#### 🤝 Collaborations
 
----
+| Project | What it is | My role | Link |
+|---|---|---|---|
+| **NextEp** | Multi-tenant SaaS where an AI agent sells access to private Telegram communities: catalog, Pix payment and invite delivery | Seller dashboard, design system, QA (test suite 27 failing → 0) | [Case study](https://github.com/daavisales/nextep-case-study) |
+| **Velora** | AI agent that qualifies WhatsApp leads and books appointments for service businesses | Front-end lead: scheduling UI, design system, owner dashboards | [Case study](https://github.com/daavisales/velora-case-study) |
+| **Confia AI** (hackathon) | Public-transport reliability app for Brasília: trust index, "when to leave" and crowding, updated live | Built the in-app AI assistant end to end: LLM client, context builder, rate limiting, chat API and React chat widget | [Repository](https://github.com/a-Ferreira-ai/confiaai) |
 
-## 📌 Projetos em destaque
+#### 📫 Find me
 
-### 🚀 SaaS / Aplicações Web
-Projetos envolvendo:
-- Integrações com APIs
-- Automações
-- Dashboards
-- Sistemas administrativos
-- Aplicações escaláveis
-
-Confira meus repositórios abaixo 👇
-
----
-
-## 📊 Estatísticas
-
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daavisales&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daavisales&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
-## 📫 Contato
-
-💼 LinkedIn: [https://linkedin.com/in/daavisales]
-
-📧 Email: [daviarmandosales@gmail.com]
-
----
-
-⭐ Sempre aberto para aprender, colaborar e construir coisas novas.
+[LinkedIn](https://www.linkedin.com/in/daavisales) · daviarmandosales@gmail.com
